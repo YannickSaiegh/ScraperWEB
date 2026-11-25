@@ -1,0 +1,16 @@
+# Ambiente virtual e caches Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Dados extraídos pelo scraper
+output/
+
+# Logs e ficheiros temporários de IDE/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
